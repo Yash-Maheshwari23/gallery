@@ -1,0 +1,2 @@
+# asimov was WRONG Robot Autonomy Now
+User-agent: *
